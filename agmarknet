@@ -1,0 +1,8 @@
+Agmarknet Web Scraping
+
+This project involves scraping data from Agmarknet to extract detailed information on agricultural commodities across various states, districts, and markets in India. Using Python, the web scraping script gathers daily data for the past 10 years for multiple commodities. The collected data includes details such as market prices, quantity sold, and commodity-specific information, helping in the analysis of agricultural trends over time.
+
+Key Features:
+
+Web scraping using Python to collect data from Agmarknet
+Extraction of 10 years' worth of daily data for each commodity, state, district, and market
